@@ -5,7 +5,11 @@
 
 
 @section 	Contact
-	Justin Reina
-	(425)760-7291
-	justinmreina@gmail.com
+	CiCi Brown 
+	(909)222-8327
+	cicimarie.gcs@gmail.com
+
+@section 	GCS Squarespace
+	CiCiMarie.gcs@gmail.com
+	GetSquare222!
 
