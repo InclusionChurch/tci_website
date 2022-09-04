@@ -12,8 +12,28 @@ Vance & Justin, Help
 # Opens
 
 * Create wiki
-* Store login & site
+* Store login & site (* Store JB Squarespace login)
+
+	jonathanedbrown@gmail.com
+
+	Misc - WC
+
+* Add contact
+* Add graphics
+* Store notes
+* Store map locs & web stuff
+
+* Store CiCi GCS login info (cicimarie.gcs@gmail.com)
+*...
+* rename repo
+* repo logo
+* grab tci graphics
+* Share notice by email & invite to repo
 * ...!
+
+## Later
+
+* Verify Squarespace account email (jonathanedbrown@gmail.com)
 
 # Template
 
