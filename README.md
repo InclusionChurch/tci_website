@@ -1,6 +1,6 @@
 # The Church of Inclusion
 
-Simple overview of use/purpose.
+Web hosting support for new TCI church in Marysville
 
 ## Staff
 
